@@ -1,0 +1,9 @@
+cara install react js
+
+1. tulis "npm create vite@latest" di cmd / terminal
+2. masukan nama project
+3. pilih react
+4. pilih javascript
+5. tulis "cd nama project"
+6. npm install
+7. npm install axios
